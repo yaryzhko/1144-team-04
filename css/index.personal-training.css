@@ -7,10 +7,12 @@
 .plank-exercise__image {
     padding: 0px 0px 80px;
 
+
 }
 
 .personal-training__info {
     align-items: center;
+    padding-top: 20px;
 }
 
 .personal-training__title {
